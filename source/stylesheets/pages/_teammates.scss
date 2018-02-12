@@ -9,6 +9,11 @@
     width: 150px;
     box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
   }
+  #team img:hover{
+    transform: scale(1.2);
+  }
+
+
   h1 {
     font-size: 30px;
     font-weight: bolder;
