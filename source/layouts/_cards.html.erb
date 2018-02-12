@@ -1,0 +1,19 @@
+
+<div class="container">
+  <h2 class="text-center">Recent Flats</h2>
+  <div class="row">
+  <% data.cities.each do |user, city| %>
+    <div class="col-xs-12 col-sm-4">
+      <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://kitt.lewagon.com/placeholder/cities/<%= city.name %>')">
+      <div class="card-category">Popular</div>
+      <div class="card-description">
+        <h2><%= city.name %></h2>
+        <p><%= city.address %></p>
+      </div>
+      <img class="card-user" src="https://kitt.lewagon.com/placeholder/users/<%= city.github_nickname%>">
+      <a class="card-link" href="#" ></a>
+      </div>
+    </div>
+  <% end %>
+</div>
+

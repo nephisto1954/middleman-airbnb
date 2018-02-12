@@ -1,0 +1,12 @@
+Shanghai:
+  name: 'shanghai'
+  address: 'Downtown Shanghai'
+  github_nickname: 'ssaunier'
+Berlin:
+  name: 'berlin'
+  address: 'Downtown Berlin'
+  github_nickname: 'Papillard'
+Paris:
+  name: 'paris'
+  address: 'Downtown Paris'
+  github_nickname: 'nephisto1954'

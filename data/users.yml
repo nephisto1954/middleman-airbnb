@@ -1,4 +1,10 @@
-- name: 'Sébastien Saunier'
+
+Seb:
+  name: 'Sébastien Saunier'
   github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
+Boris:
+  name: 'Boris Paillard'
   github_nickname: 'Papillard'
+Tg:
+  name: 'Tanguy Chennaux'
+  github_nickname: 'nephisto1954'
